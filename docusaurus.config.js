@@ -94,15 +94,15 @@ const config = {
             items: [
               {
                 label: "Accounts",
-                to: "/docs/accounts/introduction",
+                to: "/accounts/introduction",
               },
               {
                 label: "Portfolios",
-                to: "/docs/portfolios/introduction",
+                to: "/portfolios/introduction",
               },
               {
                 label: "Financial Markets",
-                to: "/docs/financial-markets/explorer",
+                to: "/financial-markets/explorer",
               },
             ],
           },
