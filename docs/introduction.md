@@ -1,4 +1,7 @@
 ---
+id: introduction
+sidebar_label: Introduction
+slug: /
 sidebar_position: 1
 ---
 
@@ -6,9 +9,9 @@ sidebar_position: 1
 
 Welcome to the Wonder Money knowledge base. Here you will find all the information you need to get started with Wonder Money.
 
-:::tip
+:::info
 
-These docs are a work in progress. If you can't find the answer you're looking for here, use the in-app feedback system (via "Help" at the bottom right corner) or reach out to us directly at support@wonder.money.
+These docs are a work in progress. If you can't find the answer you're looking for here, use the in-app feedback system (chat icon at the bottom right corner) or reach out to us directly at support@wonder.money.
 
 :::
 
@@ -22,7 +25,7 @@ Our mission is to help people make better financial decisions. We believe that e
 
 # Why is Wonder Money different?
 
-Wonder Money is different because it's built by people who have been in your shoes. We've been there. We've been in debt. We've been broke. We've been financially illiterate. We've been financially stressed. We've been financially overwhelmed. We've been financially anxious. We've been financially depressed. We've been financially hopeless. We've been financially lost.
+Wonder Money is different because it's built by people who have been in your shoes. We've been there, we've made mistakes, and we've learned from them. We've also been fortunate enough to have access to the right tools and information to help us make better financial decisions.
 
 We're of the opinion that everyone should have a concrete plan for their personal finances, whether it's done in an Excel, by a dedicated manager or through an app like WonderMoney.
 
@@ -32,5 +35,3 @@ We built WonderMoney because we didn't like any of the options on the market. He
 2. Most apps are focused on day-to-day management with budgets. While that part is essential, we believe that medium and long term planning is equally critical - hence, also an important focus of the app.
 
 It is vital to understand that while there are plans to produce content on the topic of financial management, it is not the aim of the app to offer management advice and strategy - it should be seen as a support tool.
-
-Translated with www.DeepL.com/Translator (free version)

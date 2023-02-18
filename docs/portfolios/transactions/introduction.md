@@ -11,3 +11,5 @@ A (financial) transaction is an entity that represents an action (eg: Buy) invol
 - Withdrawal
 
 ## Broker
+
+WIP
