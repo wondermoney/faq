@@ -4,7 +4,7 @@
 
 :::info
 
-For the english version of this document, please click [here](/about/policy-privacy).
+For the english version of this document, please click [here](/about/privacy-policy).
 
 :::
 

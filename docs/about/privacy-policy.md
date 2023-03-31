@@ -4,7 +4,7 @@
 
 :::info
 
-For the portuguese version of this document, please click [here](/about/policy-privacy-pt).
+For the portuguese version of this document, please click [here](/about/privacy-policy-pt).
 
 :::
 
