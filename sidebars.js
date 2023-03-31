@@ -77,6 +77,11 @@ const sidebars = {
     "reports",
     "budgets",
     "glossary",
+    {
+      type: "category",
+      label: "About",
+      items: ["about/privacy-policy", "about/terms-of-service"],
+    },
   ],
 };
 
