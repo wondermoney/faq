@@ -162,7 +162,7 @@ The security of your data is important to us but remember that no method of tran
 
 # 10. Your Data Protection Rights Under General Data Protection Regulation (GDPR)
 
-If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR. -- See more at <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
+If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR. -- See more at https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
@@ -200,15 +200,15 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
 
-We also encourage you to review the Google's policy for safeguarding your data: <https://support.google.com/analytics/answer/6004245>.
+We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245.
 
 **PostHog**
 
 PostHog is a product analytics platform built for the modern enterprise, with the differentiators of being open source and having a broader view of the tools needed to make a product successful.
 
-For more information about PostHog, please visit their Privacy Policy: <https://posthog.com/privacy>
+For more information about PostHog, please visit their Privacy Policy: https://posthog.com/privacy
 
 # 13. CI/CD tools
 
@@ -220,7 +220,7 @@ GitHub is provided by GitHub, Inc.
 
 GitHub is a development platform to host and review code, manage projects, and build software.
 
-For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page:<https://help.github.com/en/articles/github-privacy-statement>.
+For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.
 
 # 14. Behavioral Remarketing
 
@@ -230,31 +230,31 @@ Radix Catch LDA uses remarketing services to advertise on third party websites 
 
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on -- <https://tools.google.com/dlpage/gaoptout> -- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+Google also recommends installing the Google Analytics Opt-out Browser Add-on -- https://tools.google.com/dlpage/gaoptout -- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
 
 **Twitter**
 
 Twitter remarketing service is provided by Twitter Inc.
 
-You can opt-out from Twitter's interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>
+You can opt-out from Twitter's interest-based ads by following their instructions: https://support.twitter.com/articles/20170405
 
-You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: https://twitter.com/privacy
 
 **Facebook**
 
 Facebook remarketing service is provided by Facebook Inc.
 
-You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
 
-To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: https://www.facebook.com/help/568137493302217
 
-Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
 
-For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: https://www.facebook.com/privacy/explanation
 
 # 15. Payments
 
@@ -266,7 +266,7 @@ The payment processors we work with are:
 
 **Stripe**:
 
-Their Privacy Policy can be viewed at: <https://stripe.com/us/privacy>
+Their Privacy Policy can be viewed at: https://stripe.com/us/privacy
 
 # 16. Links to Other Sites
 

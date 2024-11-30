@@ -160,7 +160,7 @@ A segurança dos seus dados é importante para nós, mas lembre-se de que nenhum
 
 # 10. Seus direitos de proteção de dados sob o Regulamento Geral de Proteção de Dados (GDPR)
 
-Se você é residente da União Europeia (UE) e do Espaço Econômico Europeu (EEE), você tem certos direitos de proteção de dados, cobertos pelo GDPR. -- Veja mais em <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
+Se você é residente da União Europeia (UE) e do Espaço Econômico Europeu (EEE), você tem certos direitos de proteção de dados, cobertos pelo GDPR. -- Veja mais em https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 Temos como objetivo tomar medidas razoáveis ​​para permitir que você corrija, emende, exclua ou limite o uso de seus Dados Pessoais.
 
@@ -198,15 +198,15 @@ Podemos utilizar Prestadores de Serviço terceiros para monitorizar e analisar a
 
 O Google Analytics é um serviço de análise web fornecido pela Google que monitoriza e informa sobre o tráfego do site. A Google utiliza os dados recolhidos para monitorizar e analisar a utilização do nosso Serviço. Esses dados são partilhados com outros serviços da Google. A Google pode utilizar os dados recolhidos para contextualizar e personalizar os anúncios da sua própria rede de publicidade.
 
-Para mais informações sobre as práticas de privacidade da Google, por favor visite a página de Termos de Privacidade da Google: <https://policies.google.com/privacy?hl=pt-PT>
+Para mais informações sobre as práticas de privacidade da Google, por favor visite a página de Termos de Privacidade da Google: https://policies.google.com/privacy?hl=pt-PT
 
-Também o incentivamos a rever a política da Google para a salvaguarda dos seus dados: <https://support.google.com/analytics/answer/6004245>.
+Também o incentivamos a rever a política da Google para a salvaguarda dos seus dados: https://support.google.com/analytics/answer/6004245.
 
 **PostHog**
 
 O PostHog é uma plataforma de análise de produtos construída para a empresa moderna, com as diferenças de ser de código aberto e ter uma visão mais ampla das ferramentas necessárias para tornar um produto bem-sucedido.
 
-Para mais informações sobre o PostHog, por favor visite a sua Política de Privacidade: <https://posthog.com/privacy>
+Para mais informações sobre o PostHog, por favor visite a sua Política de Privacidade: https://posthog.com/privacy
 
 # 13. Ferramentas de CI/CD
 
@@ -218,7 +218,7 @@ O GitHub é fornecido pela GitHub, Inc.
 
 O GitHub é uma plataforma de desenvolvimento para hospedar e revisar código, gerenciar projetos e criar software.
 
-Para obter mais informações sobre quais dados o GitHub coleta para qual finalidade e como a proteção dos dados é garantida, visite a página de Política de Privacidade do GitHub: <https://help.github.com/en/articles/github-privacy-statement>.
+Para obter mais informações sobre quais dados o GitHub coleta para qual finalidade e como a proteção dos dados é garantida, visite a página de Política de Privacidade do GitHub: https://help.github.com/en/articles/github-privacy-statement.
 
 # 14. Remarketing Comportamental
 
@@ -228,31 +228,31 @@ A Radix Catch LDA usa serviços de remarketing para anunciar em sites de terceir
 
 O serviço de remarketing do Google Ads (AdWords) é fornecido pela Google Inc.
 
-Você pode optar por não participar do Google Analytics para publicidade de display e personalizar os anúncios da Rede de Display do Google visitando a página Configurações de anúncios do Google: <http://www.google.com/settings/ads>
+Você pode optar por não participar do Google Analytics para publicidade de display e personalizar os anúncios da Rede de Display do Google visitando a página Configurações de anúncios do Google: http://www.google.com/settings/ads
 
-O Google também recomenda a instalação do Complemento do navegador de desativação do Google Analytics - <https://tools.google.com/dlpage/gaoptout> - para seu navegador da web. O Complemento do navegador de desativação do Google Analytics fornece aos visitantes a capacidade de impedir que seus dados sejam coletados e usados pelo Google Analytics.
+O Google também recomenda a instalação do Complemento do navegador de desativação do Google Analytics - https://tools.google.com/dlpage/gaoptout - para seu navegador da web. O Complemento do navegador de desativação do Google Analytics fornece aos visitantes a capacidade de impedir que seus dados sejam coletados e usados pelo Google Analytics.
 
-Para obter mais informações sobre as práticas e políticas de privacidade do Google, visite a página de Termos de privacidade do Google: <https://policies.google.com/privacy?hl=pt-PT>
+Para obter mais informações sobre as práticas e políticas de privacidade do Google, visite a página de Termos de privacidade do Google: https://policies.google.com/privacy?hl=pt-PT
 
 **Twitter**
 
 O serviço de remarketing do Twitter é fornecido pela Twitter Inc.
 
-Você pode optar por não participar dos anúncios com base em interesses do Twitter seguindo suas instruções: <https://support.twitter.com/articles/20170405>
+Você pode optar por não participar dos anúncios com base em interesses do Twitter seguindo suas instruções: https://support.twitter.com/articles/20170405
 
-Você pode aprender mais sobre as práticas e políticas de privacidade do Twitter visitando sua página de Política de Privacidade: <https://twitter.com/privacy>
+Você pode aprender mais sobre as práticas e políticas de privacidade do Twitter visitando sua página de Política de Privacidade: https://twitter.com/privacy
 
 **Facebook**
 
 O serviço de remarketing do Facebook é fornecido pela Facebook Inc.
 
-Você pode aprender mais sobre publicidade baseada em interesses do Facebook visitando esta página: <https://www.facebook.com/help/164968693837950>
+Você pode aprender mais sobre publicidade baseada em interesses do Facebook visitando esta página: https://www.facebook.com/help/164968693837950
 
-Para optar por não participar dos anúncios com base em interesses do Facebook, siga estas instruções do Facebook: <https://www.facebook.com/help/568137493302217>
+Para optar por não participar dos anúncios com base em interesses do Facebook, siga estas instruções do Facebook: https://www.facebook.com/help/568137493302217
 
-O Facebook adere aos Princípios de Autodisciplina para Publicidade Comportamental Online estabelecidos pela Digital Advertising Alliance. Você também pode optar por não participar do Facebook e outras empresas participantes por meio da Digital Advertising Alliance nos EUA <http://www.aboutads.info/choices/>, da Digital Advertising Alliance do Canadá no Canadá <http://youradchoices.ca/> ou da European Interactive Digital Advertising Alliance na Europa <http://www.youronlinechoices.eu/>, ou optar por não participar usando as configurações do seu dispositivo móvel.
+O Facebook adere aos Princípios de Autodisciplina para Publicidade Comportamental Online estabelecidos pela Digital Advertising Alliance. Você também pode optar por não participar do Facebook e outras empresas participantes por meio da Digital Advertising Alliance nos EUA http://www.aboutads.info/choices/, da Digital Advertising Alliance do Canadá no Canadá http://youradchoices.ca/ ou da European Interactive Digital Advertising Alliance na Europa http://www.youronlinechoices.eu/, ou optar por não participar usando as configurações do seu dispositivo móvel.
 
-Para obter mais informações sobre as práticas de privacidade do Facebook, visite a Política de Dados do Facebook: <https://www.facebook.com/privacy/explanation>
+Para obter mais informações sobre as práticas de privacidade do Facebook, visite a Política de Dados do Facebook: https://www.facebook.com/privacy/explanation
 
 # 15. Pagamentos
 
@@ -263,7 +263,7 @@ Não armazenaremos nem coletaremos os detalhes do seu cartão de pagamento. Essa
 Os processadores de pagamento com os quais trabalhamos são:
 
 **Stripe**:
-A sua Política de Privacidade pode ser visualizada em: <https://stripe.com/us/privacy>
+A sua Política de Privacidade pode ser visualizada em: https://stripe.com/us/privacy
 
 # 16. Links para Outros Sites
 
