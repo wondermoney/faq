@@ -77,6 +77,10 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
+          type: "custom-languageSelector",
+          position: "right",
+        },
+        {
           href: "https://app.wonder.money",
           label: "App",
           position: "right",
