@@ -4,18 +4,24 @@ import { useLocation } from "@docusaurus/router";
 
 export default function LanguageSelector() {
   const { i18n } = useDocusaurusContext();
-  console.log("i18n", i18n);
   const location = useLocation();
   const { currentLocale } = i18n;
 
-  // Determine the alternate language
+  // Determine the alternate locale
   const alternateLocale = currentLocale === "en" ? "pt" : "en";
 
-  // Remove all existing locale prefixes
-  const cleanPath = location.pathname.replace(/^\/+(en|pt)+/, "");
+  // Remove any locale prefixes (e.g., /pt)
+  const cleanPath = location.pathname.replace(/^\/(pt)(\/|$)/, "");
 
-  // Construct the alternate language path
-  const alternatePath = `/${alternateLocale}/${cleanPath.replace(/^\/+/, "")}`;
+  // Construct the alternate path
+  const alternatePath =
+    alternateLocale === "en"
+      ? `/${cleanPath}`
+      : `/pt/${cleanPath.replace(/^\/+/, "")}`;
 
-  return <a href={alternatePath}>{currentLocale === "en" ? "PT" : "EN"}</a>;
+  return (
+    <a href={alternatePath} style={{ fontSize: "1rem" }}>
+      {currentLocale === "en" ? <>🇵🇹 PT</> : <>🌎 EN</>}
+    </a>
+  );
 }

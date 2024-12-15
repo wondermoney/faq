@@ -1,15 +1,15 @@
-# Transaction
+# Transação
 
-A (financial) transaction is an entity that represents an action (eg: Buy) involving a financial instrument or asset (eg: Stock) in a financial market. A transaction is a change in the state of a portfolio. Deposits and withdrawals are also transactions.
+Uma transação (financeira) é uma entidade que representa uma ação (ex: Compra) envolvendo um instrumento ou ativo financeiro (ex: Ação) num mercado financeiro. Uma transação representa uma alteração no estado de um portefólio. Depósitos e levantamentos também são considerados transações.
 
-## Transaction Types
+## Tipos de Transação
 
-- Buy
-- Sell
-- Dividend
-- Deposit
-- Withdrawal
+- Compra
+- Venda
+- Dividendo
+- Depósito
+- Levantamento
 
-## Broker
+## Corretora
 
-WIP
+Em desenvolvimento.

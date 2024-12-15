@@ -1,10 +1,10 @@
-# Import Transactions
+# Importar Transações
 
-You can import transactions from a CSV file. The list below shows the supported exchanges and you can find instructions on how to export your transactions from each exchange.
+Pode importar transações a partir de um ficheiro CSV. A lista abaixo mostra as corretoras suportadas e inclui instruções sobre como exportar as suas transações de cada uma delas.
 
-## Supported Exchanges
+## Corretoras Suportadas
 
 - [Degiro](/portfolios/transactions/export-degiro)
 - [Coinbase](/portfolios/transactions/export-coinbase)
 - [Trading 212](/portfolios/transactions/export-t212)
-- IBKR (instructions coming soon)
+- IBKR (instruções disponíveis em breve)

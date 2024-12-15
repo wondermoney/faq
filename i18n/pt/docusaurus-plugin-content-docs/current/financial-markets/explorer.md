@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# Explorer
+# Explorador
 
-The financial markets explorer is a tool that enables users to search for any listed company across major world markets and retrieve detailed information about the company's financial performance. The tool provides users with access to a vast repository of financial data, including earnings reports, financial statements, and other relevant financial metrics, allowing them to analyze and track the performance of individual companies over time.
+O explorador dos mercados financeiros é uma ferramenta que permite aos utilizadores pesquisar qualquer empresa cotada nos principais mercados mundiais e obter informações detalhadas sobre o desempenho financeiro da empresa. A ferramenta dá acesso a um vasto repositório de dados financeiros, incluindo relatórios de resultados, demonstrações financeiras e outros indicadores financeiros relevantes, permitindo analisar e acompanhar o desempenho de empresas individuais ao longo do tempo.
 
-With the financial markets explorer, users can quickly and easily access critical information about a company's financial health, including revenue, profit margins, debt levels, and other key financial indicators.
+Com o explorador dos mercados financeiros, os utilizadores podem aceder de forma rápida e simples a informações críticas sobre a saúde financeira de uma empresa, incluindo receita, margens de lucro, níveis de dívida e outros indicadores financeiros essenciais.

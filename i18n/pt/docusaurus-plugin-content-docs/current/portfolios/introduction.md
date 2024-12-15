@@ -1,5 +1,5 @@
-# Portfolio
+# Portefólio
 
-A financial portfolio is a collection of financial assets, such as stocks, bonds, mutual funds, and other securities, held by an individual or entity. The purpose of a financial portfolio is to achieve specific investment objectives, such as maximizing returns or minimizing risk, while also diversifying investments to reduce exposure to any single asset class or security.
+Um portefólio financeiro é uma coleção de ativos financeiros, como ações, obrigações, fundos de investimento e outros valores mobiliários, detidos por um indivíduo ou entidade. O objetivo de um portefólio financeiro é atingir metas de investimento específicas, como maximizar os retornos ou minimizar o risco, ao mesmo tempo que diversifica os investimentos para reduzir a exposição a qualquer classe de ativos ou valor mobiliário em particular.
 
-The composition of a financial portfolio is typically based on the investor's risk tolerance, investment goals, and time horizon. Investors with a higher risk tolerance
+A composição de um portefólio financeiro é normalmente baseada na tolerância ao risco do investidor, nos seus objetivos de investimento e no horizonte temporal. Investidores com uma maior tolerância ao risco...

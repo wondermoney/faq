@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Screener
+# Filtro
 
-The financial markets screener is a tool that allows users to screen or filter through a vast database of financial instruments or securities such as stocks, bonds, and mutual funds to find investments that meet specific criteria or metrics. This feature enables users to narrow down their search and focus on investments that align with their investment strategy, risk tolerance, and financial goals.
+O filtro dos mercados financeiros é uma ferramenta que permite aos utilizadores filtrar uma vasta base de dados de instrumentos ou valores mobiliários, como ações, obrigações e fundos de investimento, para encontrar investimentos que satisfaçam critérios ou métricas específicas. Esta funcionalidade ajuda os utilizadores a restringir a pesquisa e a focar-se em investimentos que estejam alinhados com a sua estratégia de investimento, tolerância ao risco e objetivos financeiros.
 
-Using a financial markets screener, users can customize their search by inputting specific filters such as market capitalization, dividend yield, price-to-earnings ratio (P/E ratio), and other fundamental and technical analysis metrics. The screener will then generate a list of securities that meet the user's criteria and display relevant information such as the security's price, performance history, and financial metrics.
+Com o filtro dos mercados financeiros, os utilizadores podem personalizar a pesquisa introduzindo filtros específicos, como capitalização bolsista, rendimento de dividendos, rácio preço-lucro (P/E ratio) e outras métricas de análise fundamental e técnica. O filtro gera então uma lista de valores mobiliários que cumprem os critérios definidos e apresenta informações relevantes, como o preço do ativo, histórico de desempenho e métricas financeiras.
 
-The financial markets screener is a valuable tool for investors and traders looking to find opportunities in the financial markets. This feature can help them identify undervalued or overvalued securities, find stocks with high dividend yields or growth potential, and discover companies with strong financials and earnings reports.
+O filtro dos mercados financeiros é uma ferramenta valiosa para investidores e traders que procuram oportunidades nos mercados financeiros. Esta funcionalidade pode ajudá-los a identificar valores mobiliários subvalorizados ou sobrevalorizados, encontrar ações com elevado rendimento de dividendos ou potencial de crescimento e descobrir empresas com bons fundamentos financeiros e relatórios de resultados sólidos.

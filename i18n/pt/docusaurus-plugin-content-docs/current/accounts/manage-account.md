@@ -2,33 +2,33 @@
 sidebar_position: 2
 ---
 
-# Manage Account
+# Gerir Conta
 
-## Edit account
+## Editar conta
 
-Go to the acocunts page, and from the accounts table, click on the pencil icon to edit the account information.
-At this moment, you can only edit the name of the account.
+Aceda à página de contas e, na tabela de contas, clique no ícone do lápis para editar as informações da conta.
+De momento, apenas é possível editar o nome da conta.
 
-## Delete account
+## Eliminar conta
 
-Go to the acocunts page, and from the accounts table, click on the trash icon to delete the account.
+Aceda à página de contas e, na tabela de contas, clique no ícone do caixote do lixo para eliminar a conta.
 
 :::danger
 
-Deleting an account in an irreversible action. You'll lose all the data associated with the account, including transactions.
+Eliminar uma conta é uma ação irreversível. Irá perder todos os dados associados à conta, incluindo as transações.
 
 :::
 
-## Refresh authorization
+## Atualizar autorização
 
-If you need to refresh the authorization for a linked account, you can do so from the "My Account" page. Click here for more infomation.
+Se precisar de atualizar a autorização para uma conta vinculada, pode fazê-lo na página **"A Minha Conta"**. Clique aqui para mais informações.
 
-## FAQ
+## Perguntas Frequentes
 
-### I deleted an account by mistake, can I get it back ?
+### Eliminei uma conta por engano, posso recuperá-la?
 
-Unfortunately, this is not possible. We do not keep any backups of the data, so we cannot restore the account.
+Infelizmente, isso não é possível. Não guardamos quaisquer cópias de segurança dos dados, pelo que não podemos restaurar a conta.
 
-### I've received an email saying that I need to re-authorize my account, what does this mean ?
+### Recebi um email a dizer que preciso de reautorizar a minha conta. O que significa isto?
 
-This means that the authorization for your account has expired. You can refresh the authorization from the "My Account" page. Click here for more infomation.
+Isto significa que a autorização da sua conta expirou. Pode atualizar a autorização na página **"A Minha Conta"**. Clique aqui para mais informações.

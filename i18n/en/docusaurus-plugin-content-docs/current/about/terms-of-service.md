@@ -1,11 +1,5 @@
 # Terms of Service
 
-:::info
-
-For the portuguese version of this document, please click [here](/about/terms-of-service-pt).
-
-:::
-
 These general terms and conditions govern the provision of the service provided by WonderMoney (hereinafter "Service") through a web application accessible through an internet browser.
 
 Through the Service, Radix Catch LDA provides users with information about accounts and their respective transactions, as well as the aggregation and visualization of data of various natures and applicabilities.

@@ -2,24 +2,24 @@
 sidebar_position: 1
 ---
 
-# Import transaction
+# Importar transações
 
-We support multiple ways to import transactions:
+Suportamos várias formas de importar transações:
 
-- Automatic import from your bank
-- Manual import from CSV files
+- Importação automática do seu banco
+- Importação manual de arquivos CSV
 
-## Automatic import from your bank
+## Importação automática do seu banco
 
-When you add a "linked" account, we will automatically import all your transactions from your bank account. This is the recommended way to import transactions.
-After the first import, we will automatically import all your transactions as soon as they are available in your bank account.
+Quando você adiciona uma conta "vinculada", importaremos automaticamente todas as suas transações da sua conta bancária. Esta é a forma recomendada de importar transações.
+Após a primeira importação, todas as suas transações serão importadas automaticamente assim que estiverem disponíveis na sua conta bancária.
 
-## Manual import from CSV files
+## Importação manual de arquivos CSV
 
-You can manually import transactions from CSV files. This is useful if you want to import transactions from a bank that is not supported by our automatic import, or if you don't want to link your bank account to our platform.
+Você pode importar transações manualmente a partir de arquivos CSV. Isso é útil se você deseja importar transações de um banco que não é compatível com a nossa importação automática ou se você preferir não vincular sua conta bancária à nossa plataforma.
 
-:::info Limited Support
+:::info Suporte Limitado
 
-We currently only support CSV files from the following banks: ActivoBank, Bankinter, BCP, BPI and Montepio.
+Atualmente, suportamos apenas arquivos CSV dos seguintes bancos: ActivoBank, Bankinter, BCP, BPI e Montepio.
 
 :::

@@ -2,34 +2,34 @@
 sidebar_position: 1
 ---
 
-# Create a Portfolio
+# Criar um Portefólio
 
-To create a portfolio, go to "Portfolio > Overview" and click on the "+ Add Portfolio" button.
-A portfolio is identified by its name and currency.
+Para criar um portefólio, aceda a **"Portefólio > Visão Geral"** e clique no botão **"+ Adicionar Portefólio"**.
+Um portefólio é identificado pelo seu **nome** e **moeda**.
 
-You can specify a broker/exchange, but this is not required. If you specify a broker, you will be able to import transactions using CSV files.
+Pode especificar uma corretora/bolsa, mas isto não é obrigatório. Se especificar uma corretora, poderá importar transações através de ficheiros CSV.
 
 :::info
 
-You can import transactions from your broker/exchange using CSV files at any time.
+Pode importar transações da sua corretora/bolsa usando ficheiros CSV a qualquer momento.
 
 :::
 
-## FAQ
+## Perguntas Frequentes
 
-### My broker/exchange is not listed
+### A minha corretora/bolsa não está listada
 
-We are constantly adding new brokers/exchanges to our system. If your broker/exchange is not listed, please contact us and we'll add it as soon as possible.
+Estamos constantemente a adicionar novas corretoras/bolsas ao nosso sistema. Se a sua corretora/bolsa não estiver listada, por favor contacte-nos e iremos adicioná-la o mais rapidamente possível.
 
-### What is the "currency" of a portfolio ?
+### O que é a "moeda" de um portefólio?
 
-A portfolio can hold assets in mulitple currencies. The "currency" of a portfolio is the currency in which the portfolio is valued.
+Um portefólio pode conter ativos em várias moedas. A "moeda" do portefólio é a moeda na qual o portefólio é valorizado.
 
-Let's see an example:
+Vamos ver um exemplo:
 
-- Portfolio "My Portfolio", currency "EUR"
-- Added 100 shares of Apple (AAPL) valued at 100 USD
-- Added 100 shares of ING Group (INGA) value at 100 EUR
-- Your portfolio is now valued at 197.67 EUR
+- Portefólio **"O Meu Portefólio"**, moeda **"EUR"**
+- Adicionados 100 ações da Apple (AAPL) avaliadas em 100 USD
+- Adicionados 100 ações do ING Group (INGA) avaliadas em 100 EUR
+- O seu portefólio é agora valorizado em **197,67 EUR**
 
-Note: Exchange rate of 0.93 EUR/USD at the time of writing
+Nota: Taxa de câmbio de **0,93 EUR/USD** no momento da redação.

@@ -1,71 +1,65 @@
-# Terms of Service
+# Termos e Condições
 
-:::info
+As presentes condições gerais regulam a prestação do serviço prestado pela WonderMoney (adiante “Serviço”) através de uma aplicação web, acessível através de um browser de internet.
 
-For the portuguese version of this document, please click [here](/about/terms-of-service-pt).
+Através do Serviço, a Radix Catch LDA presta ao utilizador o serviço de informação sobre contas e respetivas transações, assim como a agregação e visualização de dados de diversas naturezas e aplicabilidades.
 
-:::
+# 1. Isenção de Responsabilidade
 
-These general terms and conditions govern the provision of the service provided by WonderMoney (hereinafter "Service") through a web application accessible through an internet browser.
+A Radix Catch LDA não é responsável por quaisquer danos, perdas ou despesas incorridas pelo utilizador resultantes do uso do software. O serviço deve ser percecionado como um software de agregação e visualização de dados, não como aconselhamento financeiro ou fiscal.
 
-Through the Service, Radix Catch LDA provides users with information about accounts and their respective transactions, as well as the aggregation and visualization of data of various natures and applicabilities.
+O utilizador assume toda a responsabilidade e risco pelo uso do software e concorda em isentar a Radix Catch LDA de qualquer responsabilidade decorrente do uso do software.
 
-# 1. Disclaimer
+# 2. Adesão
 
-Radix Catch LDA is not responsible for any damages, losses or expenses incurred by the user resulting from the use of the software. The service should be perceived as a software for aggregating and visualizing data, not as financial or tax advice.
+O utilizador poderá registar-se na plataforma sem incorrer em qualquer custo através do seu endereço de e-mail, sendo que terá de efetuar uma subscrição de uma mensalidade ou anualidade para aceder a funcionalidades específicas do Serviço.
 
-The user assumes all responsibility and risk for the use of the software and agrees to indemnify Radix Catch LDA from any liability arising from the use of the software.
+# 3. Acesso
 
-# 2. Membership
+O utilizador poderá obter acesso à sua área pessoal através de um processo de autenticação seguro através de combinação de endereço de e-mail e palava-passe, estando disponível ainda um método de segurança adicional denominado Two-Factor Authentication, ou através de Social Login (Google, Facebook).
 
-The user may register on the platform without incurring any costs through their email address, and must subscribe to a monthly or annual subscription to access specific features of the Service.
+O método adicional poderá ser ativado, sem custos para o utilizador. Em caso de perda de acesso ao Two-Factor Authentication, o utilizador deverá entrar em contato com o support@wonder.money de forma a iniciar o processo de restauro de acesso.
 
-# 3. Access
+Recomenda-se uma complexidade mínima na definição da palavra-passe, sendo que posteriormente serão guardadas de forma encriptada e inacessível num parceiro especializado. Considera-se o acesso pessoal e intransmissível.
 
-The user can access their personal area through a secure authentication process using a combination of email address and password, with an additional security method called Two-Factor Authentication also available, or through a social network account (Facebook and Google).
+# 4. Ligação a contas e importação de dados
 
-The additional method can be activated at no cost to the user. In case of loss of access to Two-Factor Authentication, the user must contact support@wonder.money to initiate the access restoration process.
+O utilizador poderá integrar os seus dados de várias formas, nomeadamente:
 
-A minimum complexity is recommended when defining the password, which will be stored encrypted and inaccessible in a specialized partner. Access is considered personal and non-transferable.
+4.1 Através de protocolos de Open Banking
 
-# 4. Account Linking and Data Import
+Ao utilizar o método de importação automático através de protocolos de Application Programming Interface (API), o utilizador aceita o processamento de dados através do nosso parceiro de data processing. O utilizador será informado em todas as alturas relativamente aos dados que irá partilhar, sendo que a autorização será válida durante um período de 90 dias salvo remoção manual da autorização por parte do utilizador.
 
-The user can integrate their data in various ways, including:
+O Serviço nunca irá pedir acesso para iniciar pagamentos e transferências, limitando-se apenas à leitura e importação dos dados bancários.
 
-4.1 Through Open Banking protocols
+4.2 De forma manual
 
-By using the automatic import method through Application Programming Interface (API) protocols, the user accepts the processing of data through our data processing partner. The user will be informed at all times about the data they will share, and the authorization will be valid for a period of 90 days unless manually removed by the user.
+O utilizador poderá inserir dados de forma manual nos diferentes módulos ou recorrer à importação de ficheiros csv e xls, estando esta funcionalidade limitada às estruturadas de dados preparadas para ser recebidas pela plataforma.
 
-**The Service will never request access to initiate payments and transfers, limiting itself only to reading and importing bank data.**
+# 5. Privacidade e Proteção de Dados Pessoais
 
-4.2 Manually
+5.1 A Radix Catch LDA garante a confidencialidade de todos os dados fornecidos pelos utilizadores.
 
-The user can enter data manually in different modules or resort to importing csv and xls files, with this functionality being limited to structured data prepared to be received by the platform.
+5.2. Os dados pessoais submetidos na utilização do Serviço são indispensáveis à prestação do mesmo. A omissão ou inexatidão dos dados fornecidos pelo utilizador são da sua única e inteira responsabilidade e podem dar lugar à recusa de prestação do Serviço pela Radix Catch LDA.
 
-# 5. Privacy and Personal Data Protection
+5.3. Os dados pessoais do utilizador serão processados e armazenados informaticamente e destinam-se a ser utilizados pela Radix Catch LDA no âmbito da relação contratual e/ou comercial com o utilizador, podendo ser partilhados com parceiros para fins comerciais mas garantindo a privacidade e anonimidade dos mesmos.
 
-5.1 Radix Catch LDA guarantees the confidentiality of all data provided by users.
+5.4. Nos termos da legislação aplicável, é garantido ao utilizador, sem encargos adicionais, o direito de acesso, retificação e atualização dos seus dados pessoais, diretamente ou mediante pedido por escrito, bem como o direito de oposição à utilização dos mesmos para as finalidades previstas no número anterior, devendo para o efeito contactar a entidade responsável pelo tratamento dos dados pessoais através do e-mail support@wonder.money.
 
-5.2 Personal data submitted in the use of the Service is essential to its provision. The omission or inaccuracy of data provided by the user is their sole and entire responsibility and may result in the refusal to provide the Service by Radix Catch LDA.
+# 6. Subscrição de Serviço
 
-5.3 The user's personal data will be processed and stored electronically and are intended to be used by Radix Catch LDA in the context of the contractual and/or commercial relationship with the user, and may be shared with partners for commercial purposes, but ensuring their privacy and anonymity.
+Após o período experimental, o utilizador terá a opção de subscrever um plano de forma a ter o continuado acesso ao Serviço.
 
-5.4 Under applicable law, the user is guaranteed, at no additional cost, the right of access, rectification, and updating of their personal data, directly or by written request, as well as the right to object to their use for the purposes set out in the preceding paragraph, and for this purpose, the user must contact the entity responsible for processing personal data via email at support@wonder.money.
+6.1 Duração e Preço
 
-# 6. Subscription to Service
+A duração do plano terá a possibilidade de ser mensal ou anual, estando sujeito ao preço aplicável ao momento que o subscreve. O plano será de renovação automática, salvo cancelamento conforme descrito no ponto 6.2. O Utilizador poderá ainda recorrer a um cupão de desconto ou de referral, estando sujeito a termos adicionais para aceder ao desconto adicional.
 
-After the trial period, the user will have the option to subscribe to a plan to have continued access to the Service.
+6.2 Alteração e cancelamento de subscrição
 
-6.1 Duration and Price
+O plano poderá ser alterado para um alternativo, desde que seja de duração superior.
 
-The plan's duration may be monthly or annual, subject to the applicable price at the time of subscription. The plan will be automatically renewed, unless canceled as described in point 6.2. The user may also use a discount or referral coupon, subject to additional terms to access the additional discount.
+A renovação do plano mensal poderá ser cancelada em qualquer momento, produzindo efeitos no final do ciclo mensal em vigor. No caso do plano anual, o utilizador terá 30 dias para cancelar a subscrição sem qualquer justificação necessária, com a devolução do equivalente a 91.6% do valor pago. Após os 30 dias iniciais, o utilizador poderá cancelar a renovação da sua subscrição anual que produzirá efeitos após o término do ciclo em vigor.
 
-6.2 Change and cancellation of subscription
+# 7. Alteração a Termos e Condições
 
-The plan may be changed to an alternative, provided that it is of longer duration.
-
-The monthly plan's renewal may be canceled at any time, taking effect at the end of the current monthly cycle. In the case of the annual plan, the user will have 30 days to cancel the subscription without any justification, with the refund of the equivalent of 91.6% of the amount paid. After the initial 30 days, the user may cancel the renewal of their annual subscription, which will take effect after the end of the current cycle.
-
-# 7. Changes to Terms and Conditions
-
-Radix Catch LDA reserves the right to modify these terms and conditions at any time, with the user being informed in advance by email. The user agrees to comply with the most recent versions of these terms and acknowledges that the continued use of the Service after the modification of the terms and conditions is an implicit acceptance of these changes.
+A Radix Catch LDA reserva-se o direito de modificar estes termos e condições a qualquer momento, sendo o utilizador informado antecipadamente por e-mail. O utilizador concorda em cumprir as versões mais recentes dos presentes termos e reconhece que o uso contínuo do serviço após a modificação dos termos e condições é uma aceitação implícita dessas alterações.

@@ -1,24 +1,24 @@
-# Transaction
+# Transação
 
-A transaction is an entity that represents a movement of money from one account to another account, or a payment to a third party.
+Uma transação é uma entidade que representa um movimento de dinheiro de uma conta para outra conta, ou um pagamento a terceiros.
 
-## Transaction Types
+## Tipos de Transação
 
-- Debit: A debit transaction is a transaction that decreases the balance of the account.
-- Credit: A credit transaction is a transaction that increases the balance of the account.
+- **Débito**: Uma transação de débito é uma transação que diminui o saldo da conta.
+- **Crédito**: Uma transação de crédito é uma transação que aumenta o saldo da conta.
 
-## Merchant
+## Comerciante
 
-A merchant is an entity that you can associate with a transaction. This is most commonly used to represent a third party that you have paid. You can create unlimited merchant entities, and associate them with transactions.
+Um comerciante é uma entidade que pode ser associada a uma transação. Isso é comumente usado para representar um terceiro que você pagou. Você pode criar entidades de comerciantes ilimitadas e associá-las às transações.
 
-## Settlement Amount
+## Valor de Liquidação
 
-The settlement amount is the amount that is actually settled to the merchant. This is most commonly used to represent the amount that is actually paid to the merchant, after any fees or discounts.
+O valor de liquidação é o valor efetivamente liquidado ao comerciante. Isso é frequentemente usado para representar o valor realmente pago ao comerciante, após quaisquer taxas ou descontos.
 
-## Settlement Currency
+## Moeda de Liquidação
 
-The settlement currency is the currency that is used to represent the settlement amount. This is most commonly used to represent the currency that is used to represent the settlement amount.
+A moeda de liquidação é a moeda usada para representar o valor de liquidação. Isso é geralmente utilizado para indicar a moeda em que o valor foi liquidado.
 
-## Original Amount/Currency
+## Valor/Moeda Original
 
-Used when the transaction is in a different currency than the account. This is most commonly used to represent the original amount and currency of the transaction.
+Utilizado quando a transação é feita em uma moeda diferente da conta. Isso é frequentemente usado para representar o valor original e a moeda da transação.

@@ -2,12 +2,6 @@
 
 **Effective date: 2023/03/31**
 
-:::info
-
-For the portuguese version of this document, please click [here](/about/privacy-policy-pt).
-
-:::
-
 # 1. Introduction
 
 Welcome to **Radix Catch LDA**.

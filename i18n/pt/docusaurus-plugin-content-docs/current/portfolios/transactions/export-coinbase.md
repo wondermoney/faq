@@ -1,42 +1,42 @@
 # Coinbase
 
-Coinbase is a popular cryptocurrency exchange and wallet provider based in the United States. Founded in 2012, Coinbase offers a platform for users to buy, sell, and store various digital currencies, including Bitcoin, Ethereum, Litecoin, and others. The company has built a reputation for being a reliable and secure platform for buying and selling cryptocurrencies, with a user-friendly interface and robust security measures. Coinbase also offers additional services, such as Coinbase Pro for more advanced traders, a mobile app for convenient access, and various educational resources to help users better understand cryptocurrencies and blockchain technology.
+A Coinbase é uma exchange popular de criptomoedas e fornecedora de carteiras digitais sediada nos Estados Unidos. Fundada em 2012, a Coinbase oferece uma plataforma para utilizadores comprarem, venderem e armazenarem várias moedas digitais, incluindo Bitcoin, Ethereum, Litecoin e outras. A empresa ganhou uma reputação como uma plataforma fiável e segura para a compra e venda de criptomoedas, com uma interface amigável e medidas robustas de segurança. A Coinbase também oferece serviços adicionais, como o **Coinbase Pro** para utilizadores mais avançados, uma aplicação móvel para acesso conveniente e vários recursos educativos para ajudar os utilizadores a compreender melhor as criptomoedas e a tecnologia blockchain.
 
-## Exporting Transactions
+## Exportar Transações
 
-0. Log in to your Coinbase account
-1. Click on the **user avatar** in the top right corner of the page and select **Manage your profile**
+0. Inicie sessão na sua conta Coinbase
+1. Clique no **avatar do utilizador** no canto superior direito da página e selecione **Gerir o seu perfil**
 
 <img
 src={require('./img/coinbase/export-coinbase-1.png').default}
-alt="manage your profile"
+alt="gerir o seu perfil"
 style={{ maxWidth: '500px'}}
 />
 
-2. From the side rail, select **Statements**
+2. No menu lateral, selecione **Declarações**
 
 <img
 src={require('./img/coinbase/export-coinbase-2.png').default}
-alt="statements"
+alt="declarações"
 style={{ maxWidth: '500px'}}
 />
 
-3. The **Transactions** tab will be selected by default.
-4. Select the **Asset**, **Transaction type**, and **Date** from the drop-down menus.
-5. Select the **CSV** format and choose **Generate**.
+3. O separador **Transações** será selecionado por padrão.
+4. Escolha o **Ativo**, o **Tipo de transação** e a **Data** nos menus suspensos.
+5. Selecione o formato **CSV** e clique em **Gerar**.
 
 <img
 src={require('./img/coinbase/export-coinbase-3.png').default}
-alt="generate csv"
+alt="gerar csv"
 style={{ maxWidth: '500px'}}
 />
 
-6. Select **Download**.
+6. Clique em **Transferir**.
 
-You can also check [Coinbase documentation](https://help.coinbase.com/en/coinbase/taxes/tools/statements)
+Também pode consultar a [documentação da Coinbase](https://help.coinbase.com/en/coinbase/taxes/tools/statements).
 
 :::info
 
-If you having trouble exporting your transactions from Coinbase, or importing them in our app, please [contact support](mailto:support@wonder.money).
+Se estiver a ter dificuldades em exportar as suas transações da Coinbase ou a importá-las na nossa aplicação, por favor [contacte o suporte](mailto:support@wonder.money).
 
 :::

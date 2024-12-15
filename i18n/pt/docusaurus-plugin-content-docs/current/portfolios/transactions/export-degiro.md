@@ -1,32 +1,32 @@
 # Degiro
 
-Degiro is a European online discount brokerage firm that provides low-cost access to financial markets around the world. Founded in 2008, Degiro offers a wide range of investment products, including stocks, bonds, options, futures, and ETFs. With a presence in over 18 countries, Degiro has become a popular choice for investors looking for low fees and a user-friendly platform. Degiro's innovative technology and streamlined operations allow for efficient execution of trades, making it an attractive option for both novice and experienced investors.
+A Degiro é uma corretora europeia de desconto online que oferece acesso de baixo custo aos mercados financeiros em todo o mundo. Fundada em 2008, a Degiro disponibiliza uma ampla gama de produtos de investimento, incluindo ações, obrigações, opções, futuros e ETFs. Com presença em mais de 18 países, a Degiro tornou-se uma escolha popular para investidores que procuram taxas baixas e uma plataforma fácil de utilizar. A tecnologia inovadora e as operações simplificadas da Degiro permitem a execução eficiente de ordens, tornando-a uma opção atrativa tanto para investidores iniciantes como experientes.
 
-## Exporting Transactions
+## Exportar Transações
 
-0. Log in to your Degiro account
-1. In the sidebar, hover over **Inbox** and click on **Transactions**
+0. Inicie sessão na sua conta Degiro
+1. Na barra lateral, passe o rato sobre **Caixa de Entrada** e clique em **Transações**
 
 <img
 src={require('./img/degiro/export-degiro-1.png').default}
-alt="Example banner"
+alt="Exemplo de banner"
 style={{ maxWidth: '500px'}}
 />
 
-2. Select the **date range** for the transactions you wish to export.
+2. Selecione o **intervalo de datas** para as transações que deseja exportar.
 
-![TIme range](./img/degiro/export-degiro-2.png)
+![Intervalo de datas](./img/degiro/export-degiro-2.png)
 
-3. Click on **Export** on the right side of the page
+3. Clique em **Exportar** no lado direito da página.
 
-![Export](./img/degiro/export-degiro-3.png)
+![Exportar](./img/degiro/export-degiro-3.png)
 
-4. Select **CSV** as the file format
+4. Selecione **CSV** como formato do ficheiro.
 
 ![CSV](./img/degiro/export-degiro-4.png)
 
 :::info
 
-If you having trouble exporting your transactions from Degiro, or importing them in our app, please [contact support](mailto:support@wonder.money).
+Se estiver a ter dificuldades em exportar as suas transações da Degiro ou a importá-las na nossa aplicação, por favor [contacte o suporte](mailto:support@wonder.money).
 
 :::

@@ -2,54 +2,54 @@
 sidebar_position: 1
 ---
 
-# Create Account
+# Criar Conta
 
-An account is an entity that has a balance and transactions. This is most commonly used to represent a bank account.
-There are two types of accounts:
+Uma conta é uma entidade que possui um saldo e transações. Isso é mais comumente usado para representar uma conta bancária.
+Existem dois tipos de contas:
 
-- Linked: A linked account is an account that is linked to a bank account. This is the recommended way to create an account.
-- Unlinked: An unlinked account is an account that is manually created and does not have a bank account linked to it.
+- **Vinculada**: Uma conta vinculada é conectada a uma conta bancária. Esta é a maneira recomendada de criar uma conta.
+- **Não Vinculada**: Uma conta não vinculada é criada manualmente e não está associada a uma conta bancária.
 
-## Linked Accounts
+## Contas Vinculadas
 
-Linked accounts are accounts that are linked to a bank account. This is the recommended way to create an account.
-When you choose to create a linked account, you will be asked to select your bank entity.
-At this point, you will be redirected to the provider's portal to authenticate and link your bank account. We currently use Nordigen (a GoCardless company) as out main provider, a certified PSD2 API aggregator.
+As contas vinculadas são conectadas a uma conta bancária. Esta é a maneira recomendada de criar uma conta.
+Ao escolher criar uma conta vinculada, você será solicitado a selecionar o seu banco.
+Neste momento, você será redirecionado para o portal do provedor para autenticar e vincular sua conta bancária. Atualmente, usamos a **Nordigen** (uma empresa da GoCardless) como nosso principal provedor, um agregador certificado de APIs PSD2.
 
-![Nordigen portal](./img/nordigen.png)
+![Portal Nordigen](./img/nordigen.png)
 
-You can see all the information that we are requesting from your bank account: balances, account details and transactions. This authorization is only valid for 90 days, after which you will need to re-authenticate.
+Você poderá visualizar todas as informações que estamos solicitando da sua conta bancária: saldos, detalhes da conta e transações. Esta autorização é válida por **90 dias**, após os quais será necessário autenticar novamente.
 
 :::info
 
-You will only be asked to authenticate with your bank directly. We will **never** ask for your credentials, or any related information.
+Você será solicitado a autenticar diretamente com o seu banco. Nós **nunca** pediremos suas credenciais ou qualquer informação relacionada.
 
 :::
 
-Once you have linked your bank account, you will be redirected back to the dashboard and your account will be created.
+Depois de vincular sua conta bancária, você será redirecionado de volta ao painel e sua conta será criada.
 
-## Unlinked Accounts
+## Contas Não Vinculadas
 
-Unlinked accounts are accounts that are manually created and do not have a bank account linked to it.
-In this case, you'll have to specify the initial balance of the account.
-After that, you can manually add transactions to the account.
+As contas não vinculadas são criadas manualmente e não possuem uma conta bancária associada.
+Neste caso, você precisará especificar o saldo inicial da conta.
+Depois disso, você poderá adicionar transações manualmente à conta.
 
 :::warning
 
-This is not recommended, as it will not be possible to automatically import transactions from your bank account.
+Esta opção **não é recomendada**, pois não será possível importar transações automaticamente da sua conta bancária.
 
 :::
 
-## FAQ
+## Perguntas Frequentes
 
-### My bank is not listed
+### Meu banco não está listado
 
-We are constantly adding new banks to our list. If your bank is not listed, please contact us and we'll add it as soon as possible.
+Estamos constantemente adicionando novos bancos à nossa lista. Se o seu banco não estiver listado, entre em contato conosco e o adicionaremos o mais rápido possível.
 
-### I've created a linked account, but I don't see any transactions
+### Criei uma conta vinculada, mas não vejo nenhuma transação
 
-Depending on your bank, it can take a few minutes for the transactions to be imported. If you don't see any transactions after a few minutes, please contact us.
+Dependendo do seu banco, pode levar alguns minutos para que as transações sejam importadas. Se você não visualizar nenhuma transação após alguns minutos, entre em contato conosco.
 
-### Can I switch from an unlinked account to a linked account, or vice-versa ?
+### Posso alternar de uma conta não vinculada para uma conta vinculada, ou vice-versa?
 
-At this moment, this can only be done on our backoffice. If you need to change the type of account, reach out to us and we'll help you out.
+No momento, isso só pode ser feito no nosso backoffice. Se precisar alterar o tipo de conta, entre em contato conosco e ajudaremos você.

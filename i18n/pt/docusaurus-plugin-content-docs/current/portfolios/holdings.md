@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 
-# Holdings
+# Posições
 
-The holdings feature displays a summary of the individual's portfolio, listing each asset and its corresponding allocation percentage. It also shows the realized and unrealized gains and losses for each asset, indicating whether the investment has generated a profit or a loss. The current value of each asset is displayed alongside the allocation percentage, allowing investors to see the impact of price movements on their portfolio's overall value.
+A funcionalidade de posições apresenta um resumo do portefólio do utilizador, listando cada ativo e a respetiva percentagem de alocação. Também mostra os ganhos e perdas realizados e não realizados de cada ativo, indicando se o investimento gerou lucro ou prejuízo. O valor atual de cada ativo é exibido ao lado da percentagem de alocação, permitindo aos investidores perceber o impacto das variações de preço no valor total do portefólio.
 
-It enables investors to identify which assets are driving returns and which may require adjustment to better align with their investment strategy and financial goals. This feature is especially useful for those who hold multiple securities or asset classes within their portfolio and need to track their investments in a centralized location.
+Esta funcionalidade permite aos investidores identificar quais os ativos que estão a impulsionar os retornos e quais podem necessitar de ajustes para se alinharem melhor com a sua estratégia de investimento e objetivos financeiros. É especialmente útil para quem detém múltiplos valores mobiliários ou classes de ativos no seu portefólio e precisa de acompanhar os seus investimentos num local centralizado.
 
-## FAQ
+## Perguntas Frequentes
 
-### The P&L calculation doesn't match my broker/exchange
+### O cálculo do P&L não corresponde ao da minha corretora/bolsa
 
-Some brokers/exchanges use different methods to calculate the P&L of a position. For example, some brokers use the "average cost" method, while others use the **FIFO** method.
-At this moment, we only support the **FIFO** method.
+Algumas corretoras/bolsas utilizam métodos diferentes para calcular o P&L (ganhos e perdas) de uma posição. Por exemplo, algumas corretoras utilizam o método de **custo médio**, enquanto outras utilizam o método **FIFO**.
+De momento, apenas suportamos o método **FIFO**.
