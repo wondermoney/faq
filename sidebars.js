@@ -76,6 +76,7 @@ const sidebars = {
     },
     "reports",
     "budgets",
+    "referrals",
     "glossary",
     {
       type: "category",
