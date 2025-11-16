@@ -1,71 +1,125 @@
-# Terms of Service
+# Terms and Conditions
 
-:::info
+These general conditions regulate the provision of the service provided by WonderMoney (hereinafter "Service") through a web application, accessible via an internet browser.
 
-For the portuguese version of this document, please click [here](/about/terms-of-service-pt).
+Through the Service, **Radix Catch, Lda** provides the user with information services about accounts and their transactions, as well as the aggregation and visualization of data of various natures and applications.
 
-:::
+---
 
-These general terms and conditions govern the provision of the service provided by WonderMoney (hereinafter "Service") through a web application accessible through an internet browser.
+## 1. Disclaimer
 
-Through the Service, Radix Catch LDA provides users with information about accounts and their respective transactions, as well as the aggregation and visualization of data of various natures and applicabilities.
+Radix Catch, Lda is not responsible for any damages, losses, or expenses incurred by the user resulting from the use of the software. The service should be perceived as data aggregation and visualization software, not as financial or tax advice.
 
-# 1. Disclaimer
+Information of a financial or other nature, such as values, calculations, and graphical representations presented may contain errors or delays. These may be reported to support@wonder.money for correction, being subsequently corrected internally or communicated to the financial data provider for subsequent rectification.
 
-Radix Catch LDA is not responsible for any damages, losses or expenses incurred by the user resulting from the use of the software. The service should be perceived as a software for aggregating and visualizing data, not as financial or tax advice.
+Calculations related to securities and real estate assets should not be considered as financial advice and may contain errors or inconsistencies.
 
-The user assumes all responsibility and risk for the use of the software and agrees to indemnify Radix Catch LDA from any liability arising from the use of the software.
+Similarly, any forecasts presented (e.g., predictive regressions) do not constitute any type of financial advice nor have any guarantee of materialization.
 
-# 2. Membership
+**The user assumes all responsibility and risk for using the software and agrees to release Radix Catch, Lda from any liability arising from the use of the software.**
 
-The user may register on the platform without incurring any costs through their email address, and must subscribe to a monthly or annual subscription to access specific features of the Service.
+---
 
-# 3. Access
+## 2. Registration
 
-The user can access their personal area through a secure authentication process using a combination of email address and password, with an additional security method called Two-Factor Authentication also available, or through a social network account (Facebook and Google).
+The user may register on the platform at no cost using their email address, and will need to subscribe to a monthly or annual plan to access specific features of the Service.
 
-The additional method can be activated at no cost to the user. In case of loss of access to Two-Factor Authentication, the user must contact support@wonder.money to initiate the access restoration process.
+The user must be at least 18 (eighteen) years old to register.
 
-A minimum complexity is recommended when defining the password, which will be stored encrypted and inaccessible in a specialized partner. Access is considered personal and non-transferable.
+---
 
-# 4. Account Linking and Data Import
+## 3. Access
 
-The user can integrate their data in various ways, including:
+The user can access their personal area through a secure authentication process via email address (token) or through Social Network authentication (Google, Facebook).
 
-4.1 Through Open Banking protocols
+An additional security method called **Two-Factor Authentication** is also available, which can be activated at no cost to the user. In case of loss of access to Two-Factor Authentication, the user should contact support@wonder.money to initiate the access recovery process.
 
-By using the automatic import method through Application Programming Interface (API) protocols, the user accepts the processing of data through our data processing partner. The user will be informed at all times about the data they will share, and the authorization will be valid for a period of 90 days unless manually removed by the user.
+Access is considered personal and non-transferable.
 
-**The Service will never request access to initiate payments and transfers, limiting itself only to reading and importing bank data.**
+---
 
-4.2 Manually
+## 4. Account Connection and Data Import
 
-The user can enter data manually in different modules or resort to importing csv and xls files, with this functionality being limited to structured data prepared to be received by the platform.
+The user can integrate their data in various ways, namely:
 
-# 5. Privacy and Personal Data Protection
+### 4.1 Through Open Banking Protocols
 
-5.1 Radix Catch LDA guarantees the confidentiality of all data provided by users.
+When using the automatic import method through Application Programming Interface (API) protocols, the user accepts data processing through our data processing partner **GoCardless Ltd.** (IF Code No. 5655, at Banco de Portugal) and the respective terms and conditions as presented at the following addresses:
 
-5.2 Personal data submitted in the use of the Service is essential to its provision. The omission or inaccuracy of data provided by the user is their sole and entire responsibility and may result in the refusal to provide the Service by Radix Catch LDA.
+- [GoCardless – Terms and Conditions](https://gocardless.com/legal/terms/)
+- [GoCardless – Privacy Policy](https://gocardless.com/legal/privacy/)
 
-5.3 The user's personal data will be processed and stored electronically and are intended to be used by Radix Catch LDA in the context of the contractual and/or commercial relationship with the user, and may be shared with partners for commercial purposes, but ensuring their privacy and anonymity.
+The account information service is provided exclusively through a third-party partner entity, **GoCardless SAS**, headquartered at 7 rue de Madrid, 75008 Paris, France. GoCardless SAS is registered as an Account Information Service Provider (AISP) since 17.07.2019, and is regulated by the respective national authority Autorité de Contrôle Prudentiel et de Résolution (code 17118), with Portugal included in the scope of its registration ([IF Code 5655 assigned by Banco de Portugal](https://www.bportugal.pt/entidadeautorizada/gocardless-sas)).
 
-5.4 Under applicable law, the user is guaranteed, at no additional cost, the right of access, rectification, and updating of their personal data, directly or by written request, as well as the right to object to their use for the purposes set out in the preceding paragraph, and for this purpose, the user must contact the entity responsible for processing personal data via email at support@wonder.money.
+Radix Catch, Lda will always explicitly inform the moment when authorization will be requested through the aforementioned partners, adding that:
 
-# 6. Subscription to Service
+i) Communication with the processing partner will be secure and encrypted, with the shared content explicitly described on screen before consent;
 
-After the trial period, the user will have the option to subscribe to a plan to have continued access to the Service.
+ii) Access will only be made with the explicit consent of the user, being initiated on the Wonder.Money platform upon request and completed with the data processing partner. The process implies acceptance of these terms and the terms presented by GoCardless SAS, as presented at the time of authorization;
 
-6.1 Duration and Price
+iii) No sensitive payment data from accounts will be requested or transmitted;
 
-The plan's duration may be monthly or annual, subject to the applicable price at the time of subscription. The plan will be automatically renewed, unless canceled as described in point 6.2. The user may also use a discount or referral coupon, subject to additional terms to access the additional discount.
+iv) Data will not be used for any purpose other than that described in the subscribed service or shared with third parties, except with explicit permission or request from the user;
 
-6.2 Change and cancellation of subscription
+v) No payment initiation authorization will be requested, being limited to access to payment account information (i.e., balances and transactions).
 
-The plan may be changed to an alternative, provided that it is of longer duration.
+The user will be informed at all times regarding the data and accounts they will share, with the authorization being valid for a period of 90 days unless manual removal of authorization by the user, possible at any time with their banks. After this period, the user will be prompted to authorize access again to resume data processing.
 
-The monthly plan's renewal may be canceled at any time, taking effect at the end of the current monthly cycle. In the case of the annual plan, the user will have 30 days to cancel the subscription without any justification, with the refund of the equivalent of 91.6% of the amount paid. After the initial 30 days, the user may cancel the renewal of their annual subscription, which will take effect after the end of the current cycle.
+**The service will never request access to initiate payments and transfers, limiting itself only to reading and importing banking data.** Similarly, second authentication factors or additional signatures will never be requested for authorizing banking operations or transactions. Radix Catch, Lda will never have direct access to banking institutions.
 
-# 7. Changes to Terms and Conditions
+The custody of data and information by Radix Catch, Lda for its users will comply with the General Data Protection Regulation, with their rights conferred as explained in this document and in the [Privacy Policy](https://faq.wonder.money/pt/about/privacy-policy).
 
-Radix Catch LDA reserves the right to modify these terms and conditions at any time, with the user being informed in advance by email. The user agrees to comply with the most recent versions of these terms and acknowledges that the continued use of the Service after the modification of the terms and conditions is an implicit acceptance of these changes.
+### 4.2 Manually
+
+The user can enter data manually in different modules or use the import of .csv and .xls files, with this functionality limited to data structures prepared to be received by the platform.
+
+---
+
+## 5. Privacy and Personal Data Protection
+
+**5.1** Radix Catch, Lda guarantees the confidentiality of all data provided by users. Please consult the [Privacy Policy](https://faq.wonder.money/pt/about/privacy-policy) for more information.
+
+**5.2** Personal data submitted when using the Service is essential for its provision. Omission or inaccuracy of data provided by the user will be their responsibility and may result in refusal to provide the Service by Radix Catch, Lda.
+
+**5.3** The user's personal data will be processed and stored electronically and is intended to be used by Radix Catch, Lda within the scope of the contractual and/or commercial relationship with the user, and may be shared with partners for commercial purposes only and exclusively with the explicit consent of the user.
+
+**5.4** Under the applicable General Data Protection Regulation legislation, the user is guaranteed, at no additional cost, the right to access, rectify, and update their personal data, directly or upon written request, as well as the right to object to their use for the purposes provided in the previous paragraph. To do so, the user should contact the entity responsible for processing personal data via email at support@wonder.money.
+
+---
+
+## 6. Service Subscription
+
+After the trial period, the user will have the option to subscribe to a plan in order to have continued access to the Service.
+
+### 6.1 Duration and Price
+
+The plan duration can be monthly or annual, subject to the price applicable at the time of subscription and subject to annual updates with at least 30 days' prior notice.
+
+The plan will automatically renew, except for cancellation as described in section 6.2. The user may also use a discount coupon or referral discount, subject to additional terms to access the promotional discount.
+
+### 6.2 Plan Modification and Cancellation
+
+The plan can be changed to an alternative one, provided it is of a longer duration.
+
+The monthly plan renewal can be cancelled at any time, taking effect at the end of the current monthly cycle.
+
+In the case of the annual plan, the user will have 30 days after initial subscription to cancel, without any justification required, with a refund equivalent to 91.6% of the amount paid. After the initial 30 days, the user may cancel the renewal of their annual subscription, which will take effect after the end of the current cycle.
+
+### 6.3 Scope and Limits
+
+The platform may offer various subscription plans, with associated scopes, features, and usage limits, as described on its [website](https://www.wonder.money/pricing).
+
+These terms will be communicated at the time of subscription and will be subject to change by Radix Catch, Lda, with 30 days' prior notice.
+
+---
+
+## 7. Changes to Terms and Conditions
+
+Radix Catch, Lda reserves the right to modify these terms and conditions at any time, with the user being informed in advance by email. The user agrees to comply with the most recent versions of these terms and acknowledges that continued use of the service after modification of the terms and conditions constitutes implicit acceptance of these changes.
+
+---
+
+**Last updated:** November 16, 2025
+
+**Radix Catch, Lda**
+Contact: support@wonder.money
